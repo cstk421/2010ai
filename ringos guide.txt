@@ -1,0 +1,754 @@
+  PBX User Guide
+  FastFind Links Using Your Desk Phone
+Using the User Web Portal Voicemail
+Answering Rules and Time Frames Contacts
+Phones
+Music On Hold Call History Profile
+
+ CONTENTS
+Contents ................................................................................................................... ii
+Introduction............................................................................................................. iv
+1. Using Your Desk Phone..................................................................................... 5
+Making Calls..............................................................................................................6 Making International Calls....................................................................................6 Extension Dialing .................................................................................................6 Intercom...............................................................................................................6
+Receiving Calls..........................................................................................................7 Voicemail ...................................................................................................................7 Accessing Voicemail ............................................................................................7 Setting Up Your Mailbox ......................................................................................8 Alternate Greetings ..............................................................................................8 Voicemail Tree.....................................................................................................8 Handling Calls .........................................................................................................10 Attended Transfer ..............................................................................................10 Blind Transfer ....................................................................................................10 Transfers to External Numbers ..........................................................................11 Voicemail Transfer .............................................................................................11 Park and Hold ....................................................................................................11 Directed Call Pickup...........................................................................................11 3-Way Conference .............................................................................................11
+2. Using the User Web Portal .............................................................................. 13
+Accessing the Portal ................................................................................................14 Desktop Call Control ..........................................................................................14 Incoming Calls .............................................................................................14 Active Calls ..................................................................................................15
+Hom 16 Voicemail.................................................................................................................17
+Messages ..........................................................................................................17 Voicemail Settings .............................................................................................18 Recording a Greeting ...................................................................................19 Uploading a Greeting ...................................................................................21 Recorded Name...........................................................................................22 Answering Rules and Time Frames .........................................................................22
+ii
+PBX User Guide
+
+Contents
+ Time Frames......................................................................................................22 If you select Days of the week and times .....................................................24 If you select Specific dates or ranges...........................................................28
+Answering Rules................................................................................................30 Call Forward Drop-down Options .......................................................................32 Ring Timeout .....................................................................................................33 Allowing or Blocking Callers...............................................................................33
+Contacts ..................................................................................................................36 Filter and Search................................................................................................36 Add and Import Contacts ...................................................................................36
+Adding a Contact..........................................................................................37
+Importing Contacts .......................................................................................38 Selecting Favorites ............................................................................................38 Editing Contacts.................................................................................................38
+Phones ....................................................................................................................39 Using SNAPmobile ............................................................................................40 Music On Hold .........................................................................................................41 Adding Music on Hold Files................................................................................41 Playing an Introductory Greeting........................................................................43 Call History ..............................................................................................................44 Filtering the Call History .....................................................................................45 Exporting the Call History Log............................................................................47 Profile ......................................................................................................................48
+Index ....................................................................................................................... 50
+iii
+Cloud PBX User Guide
+
+INTRODUCTION
+Welcome to the Cloud PBX User Guide. Your Cloud PBX combines the best in traditional phone system features with modern Internet Protocol (IP) capabilities. In this guide, you will learn how to perform many common tasks on your phone, as well as make full use of your web portal.
+iv
+Cloud PBX User Guide
+
+1. USING YOUR DESK PHONE
+  Topics:
+ Making Calls (page 6)
+ Receiving Calls (page 7)  Voicemail (page 7)
+ Handling Calls (page 10)
+While there are many different models of desk phones, they largely all work the same way. In this chapter, you will learn how to use common functions of your phone.
+ 5
+Cloud PBX User Guide
+
+Using Your Desk Phone
+ Making Calls
+Making a call with your phone does not require a leading 9. You can dial on-hook or off- hook.
+➢ To dial on-hook
+1. Dial the phone number.
+2. Pickupthehandset,headset,orspeaker.
+➢ To dial off-hook
+1. Pickupthehandset,headset,orspeaker. 2. Dial the phone number.
+Calls to the US and Canada are all dialed using 10 or 11 digits. Local calls can be dialed using 7 digits.
+Making International Calls
+➢ To dial an international call
+1. Dial the international call code 011.
+2. Dialthecountrycode.
+3. Dialthelocalnumber.
+International calling is commonly disallowed to prevent toll fraud.
+Extension Dialing
+Extensions on your system can be dialed using their 3-to-4 digit extension or by pressing the button on your phone corresponding to the desired extension.
+Intercom
+VoIP phones provide an intercom feature that allows you to instantly connect to other phones within your office. Intercom functionality is ideal for announcing visitors or asking a quick question.
+When one phone intercoms another extension, it does not ring the other phone. Instead, the other phone will beep, and then its microphone and speaker turn on.
+6
+Cloud PBX User Guide
+
+Using Your Desk Phone
+ ➢ To intercom
+1. Dial 08ext. For example, to intercom extension 100, dial 08100.
+Receiving Calls
+When a call comes in, you can answer it via a headset, speakerphone, or handset. ➢ To answer a call using a handset
+– Lift the handset off-hook.
+➢ To answer a call using a speakerphone
+– Press the Speaker button. ➢ To answer a call using a headset
+– Usage depends on how the headset is connected. Often, you'll press the button on the headset or press the headset button on the phone.
+Voicemail
+Accessing Voicemail
+➢ To access voicemail
+1. Press the Messages button on your phone to access your voicemail box, or dial 5001 if
+you can not identify the voicemail button.
+2. If you subscribe to multiple mailboxes, a list of mailboxes may appear. Select the mail box you want to access.
+3. Whenprompted,enteryourvoicemailpin,andthenpress#.
+7
+Cloud PBX User Guide
+
+Using Your Desk Phone
+ ➢ To access another person’s mailbox
+1. Dial5000.
+2. When prompted, enter the other person’s extension number.
+3. EnterthevoicemailPINoftheotherperson’smailbox,followedby#.
+Setting Up Your Mailbox
+The first time you log in to your mailbox you are walked through recording your name for the directory and recording your personal greeting.
+The name recording is for the dial-by-name directory, so when someone enters the first three letters of your last name, it will play back your name recording.
+The greeting plays when your mailbox is reached. It is very important to make a custom message, as many callers will not leave messages at mailboxes that have generic greetings.
+Alternate Greetings
+Your mailbox supports multiple greetings for different scenarios like business trips and holidays.
+➢ To record an alternate greeting
+1. From your mailbox, press 6 for greetings, and then press 1 to record an alternate greeting.
+2. Whenpromptedforthegreetingnumberpress2foryournextalternategreeting(1isyour default greeting).
+3. Afteryourrecordingiscompleted,selecttheactivegreetingbyselectingoption3inthe greetings menu.
+Voicemail Tree
+On the next page you’ll find a voicemail tree showing what to dial for each option in your mailbox.
+8
+Cloud PBX User Guide
+
+ 9
+Cloud PBX User Guide
+
+Handling Calls
+Your cloud PBX features various ways to move calls around, including attended transfer, unattended (blind) transfer, voicemail transfer, park, and more. In this section, references to BLFs are the 1-touch buttons to extensions common at front-desk phones.
+Attended Transfer
+Attended transfer allows you to speak to the transfer recipient prior to completing the transfer while the caller is on hold.
+➢ To perform an attended transfer using Polycom and Yealink phones
+1. PresstheTransferkey/softkeyonyourphone.
+2. Dialtherecipient’sextensionorpresstheirBLF.
+3. Speak to the recipient, and then either press Transfer again to complete or cancel if the recipient cannot take the call.
+Blind Transfer
+Blind transfer goes straight to the recipient.
+➢ To blind transfer using Polycom phones with older firmware
+1. PressTransfer.
+2. PresstheBlindsoftkey.(ifthereisnoBlindsoftkeyseedirectionsfornewfirmware)
+3. Enter the extension of the recipient or the recipient’s BLF.
+➢ To blind transfer using Polycom phones with newer firmware
+1. Press and hold the Transfer button.
+2. SelectBlindfromtheonscreenmenu
+3. Enter the extension of the recipient or the recipient’s BLF.
+➢ To blind transfer using Yealink phones
+1. PressTransfer.
+2. Dialtheextensionoftherecipient
+3. PressTransfer.
+10
+Cloud PBX User Guide
+
+Using Your Desk Phone
+ Transfers to External Numbers
+A transfer can also go to an external number such as a cell phone. Follow the transfer directions above but instead of dialing an extension, dial a 10 digit phone number.
+Voicemail Transfer
+Voicemail transfer goes straight to the recipient’s voicemail box without ringing the recipient’s phone.
+➢ To perform a voicemail transfer
+– Perform a blind transfer with a 03 prefix before the extension. For extension 111’s
+voicemail, for example, blind transfer to 03111.
+Park and Hold
+On your phone system, hold is a local function. This means a call held on your phone cannot be picked up at another station. Park is a system-wide function. This means a call parked at one phone may be picked up by any phone.
+➢ To park a call
+1. Dial *** in an active call from any phone. The system says, “The call is parked at 7xx.” 2. Hangup.
+To retrieve the parked call, dial 7xx where xx is the number stated by the system. Directed Call Pickup
+Directed call pickup (DCP) allows you to answer a call ringing at another station. ➢ To perform a directed call pickup
+– Dial 07ext. If 111 is ringing, for example, dial 07111 to pick up that call. Phones with BLFs to the ringing station can also press the corresponding BLF.
+3-Way Conference
+➢ To make a 3-way conference
+1. Callorbecalledbythefirstparticipantintheconference.
+2. Press the Conference key/softkey, and then dial the second participant.
+11
+Cloud PBX User Guide
+
+Using Your Desk Phone
+ 3. After the second participant picks up, press Conference again to connect everyone.
+12
+Cloud PBX User Guide
+
+2. USING THE USER WEB PORTAL
+  Topics:
+ Accessing the Portal (page 14)
+ Voicemail (page 17)
+ Answering Rules and Time Frames (page 22)
+ Contacts (page 36)
+ Phones (page 39)
+ Music On Hold (page 41)
+ Call History (page 44)
+ Profile (page 48)
+Each extension of your Cloud PBX system has access to a powerful web portal for managing voicemail, call routing, and more.
+ 13
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Accessing the Portal
+➢ To access the web portal
+1. Start a web browser.
+2. Gotohttps://pbx.simplelogin.net.
+ 3.
+• •
+At the login page (see Error! Reference source not found.):
+Enter your Login Name (ext@cust-id) and Password. If you do not know your Login
+Name or Password use the applicable Forgot Link.
+If you never received these details use the New User link
+ Desktop Call Control
+Desktop call controls appear when making or receiving a call. These controls allow you to see who is calling and manage a current call.
+Incoming Calls
+Incoming calls appear in a window in the portal similar to the one in Figure 2-1. This window shows the caller ID name and number, along with Reject and Answer buttons.
+• Selecting Reject sends the call to voicemail if available. The Answer button may not be available, depending upon your handset model.
+14
+Cloud PBX User Guide
+
+ Active Calls
+Using the User Web Portal
+ Figure 2-1. Example of an Incoming Call
+Figure 2-2 shows an active call window that displays the caller ID and call time. The three controls at the bottom of the window let you hold, hang up, or transfer the call. If you select transfer, a field appears for entering the extension of the recipient. If you prefix the recipient’s extension number with 03, the call goes straight to voicemail.
+Figure 2-2. Example of Active Call Window
+ 15
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Home
+The Home page of your portal provides an at-a-glance view of everything going on with your extension. Table 2-1 describes the areas on the Home page.
+    Field
+   Description
+ New Messages
+Status Message
+Active Phones
+Figure 2-3. Example of Home Page Table 2-1. Fields in the Home Page
+Shows new messages. You can play messages, click to call back, download, save, and delete. To see all the controls, hover over the message.
+Allows you to enter a status message that appears to other users of the portal.
+Your extension may have multiple phones (for example, one in the office and one at home). This field shows which handsets are currently online.
+16
+Cloud PBX User Guide
+       Recent Call History
+Color-coded icons show your recent calls.
+• Greenicon=outboundcall.
+• Redicon=missedinboundcalls.
+• Blueicon=inboundreceivedcalls.
+To call back a number, click the phone number.
+      Active Answering Rule
+   Your extension can have multiple answering rules. For example, you might ring your phone in one mode or forward to your cell in another mode. In this field, you can which answering rule is the active rule.
+   
+Using the User Web Portal
+ Voicemail
+You configure voicemail using the Messages page. This page has two tabs for handling voicemail:
+• Messages — see “Messages” below.
+• Settings — see “Voicemail Settings” on the next page.
+To display the Messages page, click the Messages icon at the top of the page:
+Messages
+The Messages tab allows you to manage your new, saved, and deleted voicemail, as well
+as greetings and other settings.
+  Figure 2-4. Messages Page
+Like the Home page, you can play messages, click a number to call it back, and download, save, forward, and delete messages. To see all the controls available, hover the mouse pointer over a message.
+The New drop-down list allows you to review New, Saved, and Trash (recently deleted) messages.
+ 17
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Voicemail Settings
+Clicking the Settings tab displays options for controlling your voicemail order, timestamps,
+greetings, and voicemail to email.
+ Figure 2-5. Settings Tab Table 2-2. Fields in the Settings Tab
+Enable Voicemail check box Enables (check) or disables (uncheck) voicemail.
+  Field
+   Description
+        Inbox
+These options affect audio voicemail (calling in) but not the portal.
+• Sort Voicemail inbox by latest first = plays your newest messages first.
+• Announcevoicemailreceivedtime=playsthetimestampofthemessage.
+• Announce incoming call ID = plays the caller ID number if available.
+• OperatorForward=optiontopress0inamailboxgreetingandbedirected elsewhere.
+     Greetings
+Allows you to select an active voicemail greeting, listen to it, and record a new greeting.
+• To select the active voicemail greeting, click it from the pull-down menu and click Save.
+• To listen to a selected greeting on your PC, click the play button:
+• To record a greeting, see “Recording a Greeting” on page 19.
+     18
+Cloud PBX User Guide
+
+Using the User Web Portal
+   Field
+   Description
+    Unified Messaging
+   Provides the following selections for adjusting your voicemail to email settings.
+• None=noemailissentwhenvoicemailisleft.
+• Send w/ hyperlink = a link to the voicemail is emailed to you.
+• Send w/ brief hyperlink = a link to the voicemail in plaintext is emailed to you.
+• Send w/ attachment (storage option) = an email is sent to you with the audio file of the message attached. The storage option allows you to leave messages in your inbox as new, move to saved, or move to trash.
+• Send w/ brief attachment (storage option) = an email is sent to you in plaintext with the audio file of the message attached. The storage option allows you to leave messages in your inbox as new, move to saved, or move to trash.
+ Recording a Greeting
+➢ To record a greeting
+1. From the Settings tab of the Messages page, click the speaker icon   .
+A Manage Greetings page similar to the one in Figure 2-6 appears.
+19
+Cloud PBX User Guide
+
+Using the User Web Portal
+  Figure 2-6. Manage Greetings Page 2. NexttoNewGreeting,clickRecord.
+The Browse button changes to a Call me at field.
+20
+Cloud PBX User Guide
+
+Using the User Web Portal
+   Call me at field
+3. In the Call me at field, enter a number to call. This can be an extension or a telephone number such as your cell phone.
+4. IntheGreetingnamefield,enteranameforthisgreeting.
+5. ClicktheCallbutton.
+6. Attheprompt,recordthenewgreeting.Whenyoufinishthegreeting,press#.
+7. Click Add Greeting at the bottom of the Manage Greetings page, and then click Done to close the page.
+Uploading a Greeting
+➢ To upload a greeting
+1. From the Settings tab of the Messages page, click the speaker icon   .
+A Manage Greetings page similar to the one in Figure 2-6 on page 20 appears.
+2. Hover over a greeting. Options appear for editing, deleting, or renaming the greeting.
+3. NexttoNewGreeting,clickUpload.
+4. ClicktheBrowsebutton.
+5. In the Choose File to Upload dialog box, select a WAV or MP3 recording from your PC, and then click Open.
+The path and file name appear in the Browse field.
+6. Click Upload.
+7. Click Add Greeting at the bottom of the Manage Greetings page, and then click Done to close the page.
+21
+Cloud PBX User Guide
+ 
+Using the User Web Portal
+ Recorded Name
+If your company has a dial-by-name directory, you must record your name for the directory to be found. You can click the play button to listen to your current name recording on your PC, or click the speaker button to record or upload a new name recording.
+Answering Rules and Time Frames
+Though Answering Rules and Time Frames are separate tabs, they are so interconnected that describing them together makes sense.
+Time Frames
+Time frames allow you to control the scheduling of the system. You configure time frames using the Time Frames page. To display this page, click the Time Frames icon at the top of the page:
+Three common time frames are:
+• Open Hours (for example, M-F 9am-5pm)
+• Holidays (Independence Day, Thanksgiving, New Year’s, and so on)
+• Closed Hours (all other times)
+Time frames can be both shared (system-wide and set by the administrator) or personal to your extension. You can add a time frame to your extension by clicking the Add Time Frame.
+  22
+Cloud PBX User Guide
+
+Using the User Web Portal
+ ➢ To add time frames
+1. From the Time Frames page, click Add Time Frame.
+The Add a Timeframe page appears.
+ 2. In the Name field, enter a name for this time frame.
+3. Next to When, select the time period when the time frame will be applied:
+– Always = select this option if the time frame will always be applied. Click Save to complete the procedure.
+– Days of the week and times = select this option to select days and times when the time frame will be applied. Proceed to “If you select Days of the week and times” on page 24.
+– Specific dates or ranges = select this option to specify a specific date or range of dates. Proceed to “If you select Specific dates or ranges” on page 28.
+23
+Cloud PBX User Guide
+
+Using the User Web Portal
+ If you select Days of the week and times
+Options appear for selecting days and times when the time frame will be applied (see Figure 2-7).
+Figure 2-7. Setting Days of the Week and Times
+1. Using the check boxes next to the name of each day of the week, check the days when the time frame will be applied. A blue line to the right of checked day shows the default hours for this time frame (9:00 AM through 5:00 PM).
+ 24
+Cloud PBX User Guide
+
+Using the User Web Portal
+    2. To change the start time, drag the button on the left side of the blue bar either to the left to begin the start time earlier or to the right to begin the start time later.
+3. Tochangetheendtime,dragthebuttonontherightsideofthebluebareithertotheleftto shorten the end time or to the right to lengthen the end time.
+Hint: To fine-tune start and end times, click start time or end time button, and then use the left and right arrow keys on your keyboard to change the time in 5-minute increments.
+4. By default, each day is made up of one time period. However, you can use the   icon to define two time periods per day. For example, the figure below shows a setup for an office that answers calls in the morning and afternoon, and then transfers calls to an answering
+25
+Cloud PBX User Guide
+Default operating hours
+   
+Using the User Web Portal
+ service over lunch, on Monday through Friday. By doing this, you would create two time frames (for example, one from 8 to noon and another from 1:00 to 5:00 PM).
+ 5. Click Save to save your selections.
+The time frame appears as a row on the Time Frames page.
+ 26
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Hint: Moving the pointer over the blue text in the Description column shows the settings for that timeframe.
+ 27
+Cloud PBX User Guide
+
+Using the User Web Portal
+ If you select Specific dates or ranges
+Fields appear for entering dates or ranges (see Figure 2-8).
+Figure 2-8. Setting Dates or Ranges
+1. Click in the left field, and then select a starting date and time from the pop-up calendar.
+2. Click in the right field, and then select an ending date and time from the pop-up calendar.
+3. Tospecifyadditionalranges,clickthe   icontodisplayanotherrowoffields,andthen repeat steps 1 and 2 in the new fields. Repeat this step for each additional date or range
+you want to specify. To delete a date or range, click the   icon next to the appropriate row.
+28
+Cloud PBX User Guide
+  
+ 4. Click Save to save your selections.
+The time frame appears as a row on the Time Frames page.
+Using the User Web Portal
+  Hint: Moving the pointer over the blue text in the Description column shows the settings for that timeframe.
+ 29
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Answering Rules
+After you set up your time frames, you can create different answering rules for your time frames. You configure answering rules using the Answering Rules page. To display this page, click the Answering Rules icon at the top of the page:
+The left side of the Answering page has a Rings for n seconds drop-down list that allows you to specify the maximum ring time (one ring is generally 5 seconds). When that time expires, the caller will be forwarded to the Call Forward When Unanswered rule if defined; otherwise, the caller will be forwarded to voicemail if enabled. The right side of the Answering Rules page has buttons for adding answering rules, and specifying allowed and blocked numbers.
+Figure 2-9 shows examples of answering rules. In this figure:
+• The extension has a rule to simultaneously ring many desk phones during Open Hours.
+• Cell Forward rings many desk phones and a cell phone simultaneously.
+• Holiday and closed hour rules go straight to voicemail.
+The active rule is the topmost rule that matches the conditions in the corresponding time frame. In Figure 2-9, for example, the time is around 1pm on Friday, so both Open Hours and Cell Forward rule match the time/day condition, but Open Hours is active because it is the topmost rule. You can change the order by using the arrows at left of each rule to drag the rules.
+  Figure 2-9. Sample Answering Rules
+30
+Cloud PBX User Guide
+
+Using the User Web Portal
+ ➢ To add an answering rule
+1. From the Answering Rules page, click Add Rule.
+The Add an Answering Rule page appears. From this page, you can create rules to screen callers, forward calls, and ring multiple numbers simultaneously.
+Figure 2-10. Add an Answering Rule Page
+2. Complete the fields in the Add an Answering Rule page (see Table 2-3).
+3. Click Save.
+31
+Cloud PBX User Guide
+ 
+    Time Frame Call screening
+Call Forwarding On Active
+Call Forwarding When Unanswered
+Using the User Web Portal
+ Table 2-3. Fields in the Add an Answering Rule Page
+Select the time frame when this answering rule will apply.
+Prompts caller to say their name, lets you screen the call before accepting.
+Forward calls to the number specified when you have one or more calls active. See “Call Forward Drop-down Options” below.
+Forwards calls to the number specified if the call is not answered after the specified ring timeout. See “Call Forward Drop-down Options” below.
+  Field
+   Description
+   Do not disturb
+   No phone rings, goes straight to voicemail if available.
+   Call Forwarding Always
+   Immediately forwards to the number specified. See “Call Forward Drop-down Options” below.
+   Call Forwarding When Busy
+   Forwards calls to the number specified when your extension has used all available call paths. See “Call Forward Drop-down Options” below.
+   Call Forwarding When Offline
+   Automatically forwards if your desk phone loses communication (such as during a power outage). See “Call Forward Drop-down Options” below.
+   Simultaneous ring
+ Rings many phones at once. Check box options allow you to:
+• Includetheuser’sextension.
+• Ringallyouruser’sphones.
+• Use the option “Answer confirmation for offnet numbers” to ensure that a person — and not voicemail — answers simrings to a cell/landline by prompting the answering party to press 1 to accept the call. An icon to the right of this option allows you to specify a ring delay.
+Note: A simring rings handsets, not users. So, for example, if 111 is listed, the simring will ring handset 111. If user 111 has a call forward set to their cell, however, the simring will not occur at the cell since simring rings handsets, not users.
+  Just ring user’s extension
+   Rings just your phone.
+ Call Forward Drop-down Options
+When entering an extension as a call forward option, a drop-down list allows you to forward the call to specific resources associated with that extension. Table 2-4 describes the options. Some options may not appear, depending on the features associated with the extension.
+Table 2-4. Call Forward Drop-down Options on the Add an Answering Rule Page
+  Field
+   Description
+ Handset
+Voicemail
+Autoattendant Conference
+Bypasses the user answering rules and forwards to the handset associated with the specified user.
+Forwards to voicemail at the specified extension.
+Forwards to the auto attendant associated with that user. Forwards to a Conference bridge
+32
+Cloud PBX User Guide
+  User
+   Forwards to the user at that extension and follows the user’s answering rules.
+   Queue
+   Forwards to the queue associated with that user.
+     
+Using the User Web Portal
+ Ring Timeout
+At the top of the page is the ring timeout selection. This option specifies the number of seconds that your phones will ring or forwarding rule before going to voicemail (when available).
+Allowing or Blocking Callers
+The Answering Rules page has an Allow/Block button that allows you to permit or block calls from certain numbers. Using this feature, you can block unwanted calls to your phone, as well as calls from anonymous and unwanted numbers. Allowed numbers bypass user Do Not Disturb and Call Screening rules to ring through immediately.
+1. From the Answering Rules page, click Allow/Block.
+The Allow/Block page appears. This page has two lists, one for allowed phone numbers
+(on the left) and another for blocked phone numbers (on the right).
+Figure 2-11. Allow/Block Page
+2. Toallowphonenumbers,performthefollowingstepsunderALLOWEDNUMBERS: a. Click in the Enter a number field.
+b. Enter the number you want to allow.
+33
+Cloud PBX User Guide
+ 
+Using the User Web Portal
+ c. Click the   button. The number appears in the ALLOWED NUMBERS list and a brief message tells you the allowed number was added.
+d. To add more numbers, repeat step 2.
+e. To remove a number, click the   button next to that number.
+Examples of allowed numbers
+   Figure 2-12. Example of Allowed Numbers
+3. Toblockphonenumbers,performthefollowingstepsunderBLOCKEDNUMBERS: a. Click in the Enter a number field.
+b. Enter the number you want to block.
+c. Click the   button. The number appears in the BLOCKED NUMBERS list and a brief message tells you the blocked number was added.
+d. To add more numbers, repeat step 3.
+e. To remove a number, click the   button next to that number.
+4. To block anonymous calls and calls from unknown numbers, check Block anonymous or unknown.
+34
+Cloud PBX User Guide
+
+Using the User Web Portal
+   Examples of blocked numbers
+ Figure 2-13. Example of Blocked Numbers 5. When you are finished, click Done.
+35
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Contacts
+By default, contacts contain all the extensions on your system. However, you can add contacts to enable easier access to everyone you need to reach.
+You configure contacts using the Contacts page. To display this page, click the Contacts icon at the top of the page:
+The following figure shows an example of a Contacts page. The sections following the figure describe the key areas on the page.
+  Filter and Search
+The All pull-down list allows you to search contacts by group. Using this list, you can select groups to search such as Favorites, Departments, Available, Busy, and more. Selecting a group filters the contacts on the page to show only the ones located in the group selected.
+The Enter a name or extension field below the drop-down list allows you to search by contact name or extension. Entering a name or extension in this field filters the contacts on
+the page to show only the ones that match your entry. Click the   in this field to delete your entry and redisplay all contacts.
+Add and Import Contacts
+The Add Contact button allows you to add a contact one at a time. These are for external
+contacts only. Your contact list will automatically update with your internal extensions.
+Import will allow you to select a file from your PC, the import can accept CSVs from Microsoft Outlook and Gmail as well as vCards.
+36
+Cloud PBX User Guide
+
+Adding a Contact
+➢ To add a contact
+1. FromtheContactspage,clickAddContact.
+The Add Contact page appears.
+ 2. Complete the fields in the Add Contact page (see Table 2-5). 3. Click Save.
+The contact appears on the Contacts page.
+  Field
+   Description
+ First Name Work number Home number
+Table 2-5. Fields in the Add Contact Page
+Contact’s first name.
+Contact’s work telephone number. Contact’s home telephone number.
+37
+Cloud PBX User Guide
+Using the User Web Portal
+   Last Name
+   Contact’s last name (surname).
+   Mobile number
+   Contact’s mobile telephone number.
+   Email
+   Contact’s email address.
+ 
+Using the User Web Portal
+ Importing Contacts
+➢ To import contacts
+1. FromtheContactspage,clickImport.
+The Import Contacts pop-up window appears.
+2. ClicktheBrowsebutton.
+3. In the Choose File to Upload dialog box, go to the location where the file you want to
+import is located. Click the file, and then click Open.
+The path and file appear in the Browse field.
+4. Click Import.
+The imported contacts appear on the Contacts page.
+Selecting Favorites
+When hovering over a contact, a light gray star appears next to the contact name. Clicking the star selects the contact as a favorite and changes the color of the star to yellow.
+Editing Contacts
+When hovering over a contact you’ll see an edit button on the far right, click that button to edit the contact.
+ 38
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Phones
+The Phones page allows you to manage your phones. To display the Phones page, click the Phones icon at the top of the page:
+Each row shows a phone that has been added to the system, along with:
+• Whether the phone is registered.
+• The phone name and device type. The hyperlink below the Name column allows you to edit the phone information. You can also edit or delete phones using icons on the right side of the row.
+• The phone’s IP address, MAC address, and line number on the phone associated with your extension.
+Clicking the Refresh button   updates the information shown on the page.
+The page has an Add Phone button that adds phones to your system. This task usually is performed by administrators and is not described in this guide.
+The Phones page also has a SNAPmobile button that allows you to access SNAPmobile. SNAPmobile is a mobile app that turns your cell phone into an extension of your Cloud PBX. Make and receive calls with the same identify as being in the office along with managing your voicemail, answering rules, and contacts. To start using SNAPmobile, see “Using SNAPmobile” on page 40.
+  39
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Using SNAPmobile
+➢ To use SNAPmobile
+1. FromthePhonespage,clickSNAPmobile.
+The splash screen in Figure 2-14 appears.
+Figure 2-14. SNAPmobile Splash Screen
+2. Scan the QR code to download the app or search for SNAPmobile in the app store, and then enter the information from that page into the SNAPmobile logon screen.
+40
+Cloud PBX User Guide
+ 
+Using the User Web Portal
+ Music On Hold
+Music on Hold allows you to specify personal music on hold for your extension. You configure music on hold files using the Music On Hold page. To display this page, click the Music on Hold icon at the top of the page:
+The Add Music button allows you to add music on hold files. When you add music on hold files, the file name appears on the Music On Hold page, along with the duration and file size. The Settings button allows you to play an introductory greeting.
+If you hover over a file you can see options to play the file, download the file, edit the name, or delete the file. If multiple files are uploaded you can rearrange them using the arrows at the left of the page.
+  Adding Music on Hold Files
+➢ To add music on hold files
+1. From the Music On Hold page, click Add Music.
+The Add Music page appears.
+41
+Cloud PBX User Guide
+
+Using the User Web Portal
+  2. ClicktheBrowsebutton.
+3. In the Choose File to Upload dialog box, go to the location where the file you want to
+import is located. Click the file, and then click Open. The path and file appear in the Browse field.
+NOTE: The music file must be in MP3 or WAV format, and must be properly licensed.
+4. In the Song Name field, enter a name for the song. 5. Click Upload.
+The music file appears on the Music on Hold page.
+42
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Playing an Introductory Greeting
+➢ To play an introductory greeting before having the music on hold file play 1. From the Music On Hold page, click Settings.
+The Music on Hold Settings page appears.
+ 2. CheckPlayintroductorygreeting. 3. Click Save.
+43
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Call History
+The Call History page shows a log of all your extensions calls. It also provides tools to filter and export data.
+The left side uses color-coded icons to represent call status:
+• Green = outbound calls
+• Blue = inbound received calls
+• Red = missed calls
+Moving your screen pointer over an icon displays a tooltip with the call status. For example:
+You can click a number in the Number column dial back the number. Clicking the Refresh button   updates the information shown on the page.
+To display the Call History page, click the Call History icon at the top of the page:
+The following figure shows an example of the Call History page. The sections following the figure describe the Filters and Export buttons.
+    44
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Filtering the Call History
+The Filters button allows you to filter the information displayed in the Call History page, so
+you can view only the information that interests you.
+➢ To filter the call history
+1. FromtheCallHistorypage,clickFilters.
+The Call History Filters page appears.
+2. Complete the fields in the Add Contact page (see Table 2-6). 3. ClickSetFilters.
+The Call History page appears, with only the items that match your criteria.
+ 45
+Cloud PBX User Guide
+
+Using the User Web Portal
+   Field
+   Description
+ Date Range
+Dialed Number
+Table 2-6. Fields in the Call History Filters Page
+To filter by a specified date range, click in the left field, and then select a starting date and time from the pop-up calendar (see Figure 2-15). Click in the right field, and then select an ending date and time from the pop-up calendar.
+To filter by a dialed number, enter the dialed number.
+  Caller Number
+   To filter by a caller number, enter the caller’s number.
+   Call Type
+   To filter by type of call, select a call type.
+  Figure 2-15. Selecting a Start Date from the Pop-up Calendar
+46
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Exporting the Call History Log
+➢ To export the call history log
+1. FromtheCallHistorypage,clickExport.
+Depending on your browser, the history log is downloaded to your computer or you are prompted to save the log. The log is in comma-separated-value (CSV) format.
+2. Afterdownloadingthelog,youcanopenitusingMicrosoftExcel,GoogleDocs,andother spreadsheet applications.
+47
+Cloud PBX User Guide
+
+Using the User Web Portal
+ Profile
+Clicking the Profile link at the top-right of the page displays the Profile page. From this
+page, you can configure the settings in Table 2-7.
+48
+Cloud PBX User Guide
+ 
+Using the User Web Portal
+   Field
+   Description
+ First Name
+Last Name Timezone
+Email Address(es)
+Record User’s Calls
+Table 2-7. Fields in the Profile Page
+The first name and last name will be shown in contacts and used in the dial by name directory.
+Your local time zone.
+Address used for email, password resets, etc. To add email addresses, click
+the   button to add fields for entering more email addresses.
+Select whether the calls for this user will be recorded (Yes) or not recorded (No).
+          Directory Options
+  Enables or disables announce in auto directory and list in directory features.
+• Announce in Audio directory = check to include the user in the dial-by-name directory.
+• List in Directory = check to add user to the internal extensions list (contacts).
+  Caller ID Information
+    Area Code
+  Local area code for 7 digit dialing associated with the user.
+  Caller ID
+   For outbound calls, this is the number that recipients will see.
+  911 Caller ID
+  For calls to 911, this is the e911-enabled number the 911 agent will see.
+ Change Password
+New Password
+Confirm New Password
+Password for voicemail and the portal. Avoid using common codes like 0000 or 1234. For security, each typed password character is masked by a dot ().
+Please keep this number secure. We will never call you to request your passcode.
+     49
+Cloud PBX User Guide
+
+ INDEX
+3
+A
+off-hook, 6
+on-hook, 6
+Directed call pickup, 11
+E
+Extension dialing, 6
+External number transfers, 11
+G
+H I
+M
+3-way conference, 11
+Accessing portal, 14
+voicemail, 7
+voicemail remotely, 8 Active calls, 15 Allowing callers, 33 Alternate greetings, 8 Answering rules, 30 Attended transfers, 10
+Blind transfers, 10 Blocking callers, 33
+Greeting recording, 19 uploading, 21
+Handling calls, 10 Home page, 16
+Incoming calls, 14 Intercom, 6
+International calls, 6 Introductory greeting, 43
+B
+C
+Call forward, 32
+Call handling, 10
+Call history, 44
+Callers, allowing or blocking, 33 Calls
+active, 15 incoming, 14 making, 6 receiving, 7
+Contacts, 36
+Dialing extension, 6
+Mailbox setup, 8
+Making international calls, 6 Messages page, 17
+Music on hold, 41
+O
+D
+Off-hook dialing, 6 On-hook dialing, 6
+50
+Cloud PBX User Guide
+
+Park and hold, 11 Phones page, 39 Portal, 14
+call history, 44 contacts, 36
+home page, 16 Messages page, 17 music on hold, 41 profile, 48
+Time frames, 22 Transfers
+attended, 10
+blind, 10
+external numbers, 11 voicemail, 11
+Profile, 48
+R
+S
+Setting up your mailbox, 8
+Uploading a greeting, 21
+Receiving calls, 7 Recording a greeting, 19 Remote voicemail, 8 Ring timeout, 33
+Voicemail, 17 accessed, 7 accessed remotely, 8 settings, 18
+transfer, 11
+tree, 8
+P
+SNAPmobile, 40
+T
+U
+V
+Index
+ 51
+Cloud PBX User Guide
+
+ RingLogix has made a good faith effort to ensure the accuracy of the information in this document and disclaims the implied warranties of merchantability and fitness for a particular purpose and makes no express warranties, except as may be stated in its written agreement with and for its customers.
+RingLogix shall not be held liable to anyone for any indirect, special or consequential damages due to omissions or errors. The information and specifications in this document are subject to change without notice.
+Copyright © 2018. All Rights Reserved.
+All trademarks and registered trademarks are the property of their respective owners.
+PBX User Guide
+May 23, 20182018 Document version: Version 1
+ 
